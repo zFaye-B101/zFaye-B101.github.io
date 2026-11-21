@@ -1,9 +1,6 @@
-# Melbourne TripAgent — live demo
+# Personal site
 
-This repository hosts the built static site for the Melbourne TripAgent demo.
+Selected work: https://zfaye-b101.github.io/
 
-- Live site: https://zfaye-b101.github.io/melbourne-tripagent/
-- Source: https://github.com/zFaye-B101/melbourne-tripagent
-
-The static build runs the deterministic rules path. No API keys or provider
-credentials are included.
+The Melbourne TripAgent demo lives at
+https://zfaye-b101.github.io/melbourne-tripagent/.
