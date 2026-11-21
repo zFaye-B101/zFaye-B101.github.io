@@ -1,6 +1,11 @@
 # Personal site
 
-Selected work: https://zfaye-b101.github.io/
+Project portal: https://zfaye-b101.github.io/
 
-The Melbourne TripAgent demo lives at
-https://zfaye-b101.github.io/melbourne-tripagent/.
+Selected work:
+
+- Melbourne TripAgent — https://zfaye-b101.github.io/melbourne-tripagent/
+- Occluded Product Matching — https://github.com/zFaye-B101/occluded-product-matching
+
+The Melbourne demo is a static build of
+https://github.com/zFaye-B101/melbourne-tripagent.
