@@ -1,0 +1,31 @@
+{
+  "policyVersion": "ptv-half-price-2026-v1",
+  "currency": "AUD",
+  "effectiveFrom": "2026-06-01",
+  "effectiveUntil": "2027-01-01",
+  "verifiedAt": "2026-09-15",
+  "zone12": {
+    "fullFare": {
+      "twoHourCents": 285,
+      "weekdayDailyCapCents": 570,
+      "weekendHolidayDailyCapCents": 400
+    },
+    "concession": {
+      "twoHourCents": 142,
+      "weekdayDailyCapCents": 285,
+      "weekendHolidayDailyCapCents": 200
+    }
+  },
+  "physicalCard": {
+    "fullFareCents": 600,
+    "concessionCents": 300,
+    "youthCents": 500
+  },
+  "sourceUrl": "https://transport.vic.gov.au/news-and-resources/campaigns/your-guide-to-myki-fares",
+  "policySourceUrl": "https://www.vic.gov.au/half-price-travel",
+  "notes": [
+    "Only a verified all-walking day or a future route-confirmed Free Tram Zone-only day may be costed at zero.",
+    "SkyBus and airport transfers are excluded.",
+    "Contactless currently supports full fare only."
+  ]
+}

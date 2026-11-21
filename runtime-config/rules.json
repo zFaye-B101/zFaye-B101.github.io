@@ -1,0 +1,26 @@
+{
+  "version": "planner-rules-v1",
+  "minRecognizedFields": 3,
+  "defaultStartMinutes": 570,
+  "defaultEndMinutes": 1050,
+  "earliestStartMinutes": 480,
+  "latestStartMinutes": 780,
+  "lunchStartMinutes": 720,
+  "latestLunchStartMinutes": 840,
+  "lunchMinutes": 55,
+  "extraPoiAliases": {
+    "mel-cbd-federation-square": ["Fed Square"],
+    "mel-cbd-acmi": ["ACMI", "澳大利亚动态影像中心"],
+    "mel-arts-ngv-international": ["NGV", "NGV International", "国家美术馆"],
+    "mel-cbd-state-library": ["州立图书馆"],
+    "mel-cbd-qvm": ["QVM", "女王市场", "Queen Victoria Market"],
+    "mel-cbd-immigration-museum": ["移民博物馆"],
+    "mel-carlton-melbourne-museum": ["墨尔本博物馆"],
+    "mel-carlton-royal-exhibition": ["皇家展览馆"],
+    "mel-east-fitzroy-gardens": ["菲茨罗伊花园"],
+    "mel-south-royal-botanic-gardens": ["皇家植物园", "墨尔本皇家植物园"],
+    "mel-south-shrine": ["纪念神殿"],
+    "mel-cbd-old-melbourne-gaol": ["旧墨尔本监狱"],
+    "mel-melbourne-aquarium-ce537795": ["SEA LIFE", "水族馆"]
+  }
+}

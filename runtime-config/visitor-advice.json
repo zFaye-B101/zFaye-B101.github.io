@@ -1,0 +1,61 @@
+{
+  "snapshotVersion": "mel-visitor-advice-v1-2026-09-28",
+  "verifiedAt": "2026-09-28",
+  "reviewAfter": "2026-10-28",
+  "note": "项目根据下列官方页面自写的摘要，不复制原文；Transport Victoria 网站自有文字为 CC BY 4.0。条款会变，出发前请以官方页面为准。",
+  "sources": {
+    "tvVisitors": {
+      "label": "Transport Victoria：Visitors to Victoria",
+      "url": "https://transport.vic.gov.au/plan-a-journey/visitors-to-victoria",
+      "license": "CC BY 4.0（网站自有文字）"
+    },
+    "tvTapOnOff": {
+      "label": "Transport Victoria：Tap on and off with myki",
+      "url": "https://transport.vic.gov.au/tickets-and-myki/myki/tap-on-and-off-with-myki",
+      "license": "CC BY 4.0（网站自有文字）"
+    },
+    "tvMaps": {
+      "label": "Transport Victoria：墨尔本公共交通地图（含免费电车区地图 PDF）",
+      "url": "https://transport.vic.gov.au/plan-a-journey/network-maps/melbourne-public-transport-maps",
+      "license": "仅链接"
+    },
+    "halfPrice": {
+      "label": "Victorian Government：Half price travel",
+      "url": "https://www.vic.gov.au/half-price-travel",
+      "license": "仅链接"
+    },
+    "qvmVisit": {
+      "label": "Queen Victoria Market：Visit us",
+      "url": "https://qvm.com.au/visit-us/",
+      "license": "仅链接；营业时间为项目自写摘要"
+    },
+    "abfTrs": {
+      "label": "Australian Border Force：Tourist Refund Scheme",
+      "url": "https://www.abf.gov.au/entering-and-leaving-australia/tourist-refund-scheme",
+      "license": "仅链接"
+    },
+    "bomClimate": {
+      "label": "Bureau of Meteorology：墨尔本月均气候统计（历史统计，非预报）",
+      "url": "https://www.bom.gov.au/climate/averages/tables/cw_086282_All.shtml",
+      "license": "仅链接；不复制数据"
+    }
+  },
+  "transport": {
+    "halfPriceUntil": "2027-01-01",
+    "contactlessFullFareOnly": true,
+    "tapOffRequired": ["train", "bus", "tram_zone2"],
+    "tapOffNotRequired": ["tram_zone1"],
+    "freeTramZoneNoTap": "only_if_trip_starts_and_ends_inside"
+  },
+  "qvm": {
+    "tradingDays": {
+      "2": "06:00–15:00",
+      "4": "06:00–15:00",
+      "5": "06:00–15:00",
+      "6": "06:00–16:00",
+      "0": "09:00–16:00"
+    },
+    "closedWeekdays": [1, 3],
+    "specialtyShoppingFrom": "09:00"
+  }
+}
